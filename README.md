@@ -22,7 +22,24 @@ Machine Learning Project Java Programming Language (Webservices and  Tester Clie
  				  * how many each repeated .											                          
  				  * order the output to find out the most important skills required?.	      
  			11-Factorize the YearsExp feature and convert it to numbers in new col.     
- 			12-Apply K-means for job title and companies.	                              
+ 			12-Apply K-means for job title and companies.	 
+ 
+ <h1>Project run steps</h1>
+<h3>Webservices(Server)</h3>
+<ol>
+  <li>src/main/java
+  <ul>ProjectMain (Package)
+  <ul>run "JavaMlgr3Application"---> as Spring Boot (Server) </ul></ul></li>
+</ol> 
+<h3>TesterClient (Client)</h3>
+<ol>
+  <li>src/main/java
+  <ul>Test (Package)
+ <ul>run "ConsumerTest" as ---> Java Application <ul>Choose Any WebServices as You Like (from 1------> 13)</ul></ul></ul></li>
+</ol> 
+
+ 
+ 
 # Main Package : 
       -Smile DataFrame 
       -TableSaw
